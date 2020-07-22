@@ -5,3 +5,7 @@ Please read this first.
 Now I'm adding some more text after the first commit.
 
 This is fun :-)
+
+
+This is the next set of changes for the shortcut
+
