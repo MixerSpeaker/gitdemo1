@@ -1,3 +1,7 @@
 This is a test file for the git stuff.
 
 Please read this first.
+
+Now I'm adding some more text after the first commit.
+
+This is fun :-)
